@@ -118,7 +118,7 @@ margin-left: 68%;
     border-radius: 7px;
     box-shadow: 1px 1px 30px -5px rgb(232, 248, 207);
     cursor: pointer;
-    margin-left: 34%;
+    margin-left: 35%;
     background-size: 120%;
     margin-top: 4%;
     background-image: url(./imagenes/grises.gif);
@@ -320,7 +320,7 @@ margin-top: -50%;
   max-width: 1200px;
   padding: 18px 7px;
   text-align: center;
-  margin-top: 125%;
+  margin-top: 85%;
   background-color: #ffffff;
   font-size: 100%;
 }

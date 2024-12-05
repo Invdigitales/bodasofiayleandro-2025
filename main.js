@@ -76,3 +76,15 @@ boton.addEventListener("click", () => {
     })
   });
 
+  function exito(){
+    Swal.fire({
+        title: '<strong>VER LA UBICACION<u></u></strong>',
+        icon: 'success',
+        html:
+          'INGRESÁ' +
+          '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.1706048845003!2d-57.507317!3d-37.83289169999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9584d18287fb5763%3A0xafceee8fc1f25d70!2sEl%20Dorado%20885%2C%20B7609%20Santa%20Clara%20del%20Mar%2C%20Provincia%20de%20Buenos%20Aires!5e0!3m2!1ses-419!2sar!4v1733433828573!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
+          'Podes ampliar el mapa',
+          
+          
+      })
+}
