@@ -56,7 +56,7 @@ margin-left: 68%;
     font-family: "Rouge Script", cursiva;
        font-size: 31px;
        color: #7b7b7b;
-       margin-top: -690%;
+       margin-top: -850%;
      
   }
   .imagenfamiliar{
@@ -82,7 +82,7 @@ margin-left: 68%;
     font-family: "Rouge Script", cursiva;
        font-size: 41px;
        color: #7b7b7b;
-       margin-top: 10%;
+       margin-top: 21%;
   }
   .parroquia{
     width: 18%;
@@ -172,14 +172,14 @@ margin-left: 68%;
   width: 40%;
   margin-left: 30%;
  }
-.icono{
+.icono3{
   text-align: center;
-    font-family:'Times New Roman', Times, serif; 
-     font-size: 13px;
-     color:#6B928F;
-    
+  font-family: "Rouge Script", cursiva;
+     font-size: 30px;
+     color: #7b7b7b;
+     margin-top: 5%;
  }
- .icono3{
+ .icono{
   text-align: center;
     font-family:'Times New Roman', Times, serif; 
      font-size: 18px;
@@ -274,7 +274,7 @@ margin-left: 48%;
   border-radius: 7px;
   box-shadow: 1px 1px 30px -5px rgb(232, 248, 207);
   cursor: pointer;
-  margin-left: 37%;
+  margin-left: 39%;
   background-size: 120%;
   margin-top: 4%;
   background-image: url(./imagenes/grises.gif);
@@ -320,7 +320,7 @@ margin-top: -50%;
   max-width: 1200px;
   padding: 18px 7px;
   text-align: center;
-  margin-top: 10%;
+  margin-top: 125%;
   background-color: #ffffff;
   font-size: 100%;
 }
